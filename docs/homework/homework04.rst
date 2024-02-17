@@ -83,8 +83,6 @@ Guidelines to follow for the README are:
 * Descriptive title
 * High-level description of the folder contents / project objective. I.e. why
   does this exist and why is it important? (2-3 sentences)
-* Instructions on how to access and description of the data set from the original source
-  (do not include the data itself in this repository!)
 * Instructions on how to build a container for your code
 * Instructions to run the containerized Python3 script and unit tests
 * List of what to expect for output and how to interpret them
@@ -104,7 +102,7 @@ What to Turn In
 ---------------
 
 A sample Git repository may contain the following new files after completing
-homework03:
+homework04:
 
 .. code-block:: text
    :emphasize-lines: 6-13
